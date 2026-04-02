@@ -18,3 +18,6 @@ The algorithm computes the optimal path from the center of a constrained diamond
 
 ## Author
 Rohan Mehrotra
+
+## 📸 Visualization
+![Grid](project1.jpg)
